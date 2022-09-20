@@ -131,7 +131,7 @@ main {
     main{
         display: flex;
         justify-content: center;
-        max-width: 600px;
+        max-width: 500px;
     }
 
     .main-text{
@@ -145,7 +145,7 @@ main {
         border-top-left-radius: 1em;
         border-bottom-left-radius: 1em;
         border-top-right-radius: 0;
-        max-width: 300px;
+        max-width: 250px;
     }
 
     .desk-img{
